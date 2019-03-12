@@ -1,7 +1,7 @@
 # IPhelper
 
 ## Description
- A helper which can help get you IPs from file or convert CIDR,IP range to IPs.
+ A helper which can help you get IPs from the file or convert CIDR, IP range to IPs.
 
 ## Usage
  usage: python IPhelper.py <-F input_file> <-T input_text> <-O output_file_name>
