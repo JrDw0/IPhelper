@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 __author__ = 'JrD'
-__creatimm__ = '2019.3.11'
+__creationtime__ = '2019.3.11'
 
 import sys
 import re
