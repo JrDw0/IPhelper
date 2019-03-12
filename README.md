@@ -2,14 +2,6 @@
 
 A helper which can help get you IPs from file or convert CIDR,IP range to IPs.
 
- _____ ______  _            _
-|_   _|| ___ \| |          | |
-  | |  | |_/ /| |__    ___ | | _ __    ___  _ __
-  | |  |  __/ | r'_ \  / _ \| || '_ \  / _ \| '__|
- _| |_ | |    | | | ||  __/| || |_) ||  __/| |
- \___/ \_|    |_| |_| \___||_|| .__/  \___||_|
-                              | |
-                              |_|
 
 usage: python IPhelper.py <-F input_file> <-T input_text> <-O output_file_name>
 
