@@ -8,8 +8,8 @@
 
 ## Feature
  - Supported special formats:
- (CIDR)          127.0.0.1/24
- (IP range)      127.0.0.1-256
+ (CIDR)          127.0.0.1/24||
+ (IP range)      127.0.0.1-256||
  (','format IPs) 127.0.0.1,2,3,4……
  
  - remove duplicates
